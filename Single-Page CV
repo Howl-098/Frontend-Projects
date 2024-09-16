@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Junior Developer, Ruy Fernández</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+
+        
+        h1 {
+            font-size: 2.5em;
+            color: #2c3e50;
+            text-align: left;
+        }
+       
+        h2 {
+            color: blue;
+        }
+
+        h3 {
+            color: green;
+            margin-top: 10px;
+            font-size: 1.5em;
+        }
+
+        p {
+            margin: 5px 0;
+        }
+
+        #presentation, #Skills, #education, #Experience, #Contact {
+            margin-bottom: 40px;
+        }
+
+        #presentation h1 {
+            text-align: left;
+        }
+
+        #Skills ul, #Experience ul {
+            margin-left: 20px;
+        }
+
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: orange;
+        }
+
+        hr {
+           width: 50%;
+            border: 1px solid rgb(83, 35, 35);
+            margin: 20px 0;
+            box-shadow: 2px 2px 5px rgb(83, 35, 35);
+        }
+    </style>
+</head>
+<body>
+    <hr>    
+    
+    <div id="presentation">
+        <h1>Ruy Matias Fernández de la Cuesta</h1>
+        <h3>Junior Frondend Developer</h3>
+        <p>123 Your Street</p>
+        <p>Your City, ST 12345 </p>
+        <p>(123) 456-7890</p>
+        <p>no_reply@example.com</p>
+    </div>
+    
+    <div id="Skills">
+        <h3>Skills</h3>
+        <p>HTML, CSS, JavaScript, Accessibility, Figma to Desing, Responsive Web Desing, Technical writing, Presentation.</p>
+    </div>
+    <div id="education">
+        <h3>Education</h3>
+        <h2>School Name, Location - Degree</h2>
+        <p>Month 20xx to Month 20xx</p>
+        <p>List of exciting things you did at university</p>
+    </div>
+    <div id="Experience">
+        <h3>Experience</h3>
+        <p></p>
+        <h2>Company name, Location - Job Title</h2>
+        <p>Month 20xx to Month 20xx</p>
+        <ul>
+            <li>List of archivements</li>
+            <li>List of archivements</li>
+            <li>List of archivements</li>           
+        </ul>
+        <p>Skills: List of Skills used or gained at this company</p>
+
+        <h2>Company name, Location - Job Title</h2>
+        <p>Month 20xx to Month 20xx</p>
+        <ul>
+            <li>List of archivements</li>
+            <li>List of archivements</li>
+            <li>List of archivements</li>           
+        </ul>
+        <p>Skills: List of Skills used or gained at this company</p>
+
+    </div>
+</body>
+<footer>
+
+    <div id="Contact">
+        <h3>Across the internet</h3>
+        <p><a href="Https://www.linkedin.com/in/ruy-matías-fernández-de-la-cuesta-232176150">Linkedin</a>,<a href="https://github.com/Howl-098">GitHub</a></p>
+        
+    </div>
+</footer>
+
+</html>
